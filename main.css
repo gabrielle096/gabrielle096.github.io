@@ -174,7 +174,7 @@ nav > div input:checked ~ div {
 /* opening animatie */
 @keyframes opening {
     0% {transform: translate(0, 0);}
-    100% {transform: translate(-100%, 0);}
+    100% {transform: translate(0%, -100%);}
 }
 
 body>div {
